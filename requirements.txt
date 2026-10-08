@@ -1,0 +1,4 @@
+monitorcontrol
+PySide6>=6.5
+wmi
+pywin32
